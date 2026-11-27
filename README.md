@@ -13,10 +13,6 @@
 </p>
 
 <p align="left">
-  That mindset now has 425+ stars and a growing self-hosting community behind it. Worth every late night.
-</p>
-
-<p align="left">
   The newest one is <a href="https://github.com/spupuz/VibeNVR"><b>VibeNVR</b></a>: a local, privacy-first NVR for your cameras, built for self-hosters who want full control. No cloud required.
 </p>
 
