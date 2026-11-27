@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Cosa sto costruendo
+## 🛠️ What I'm building
 
 <table>
   <tr>
@@ -48,14 +48,14 @@
       <a href="https://github.com/spupuz/OmniState">
         <img src="https://raw.githubusercontent.com/spupuz/OmniState/main/server/favicon.svg" width="64" height="64" alt="OmniState"/>
         <br/><b>OmniState</b>
-        <br/><sub>MCP memory server · Python</sub>
+        <br/><sub>MCP memory server · Python · 2★</sub>
       </a>
     </td>
     <td align="center" width="170">
       <a href="https://music-ai-multi-tool-hub.pages.dev">
         <img src="https://raw.githubusercontent.com/spupuz/spupuz/main/assets/icon-music-ai.svg" width="64" height="64" alt="Music AI Multi-Tool Hub"/>
         <br/><b>Music AI Hub</b>
-        <br/><sub>20+ AI music tools · TypeScript</sub>
+        <br/><sub>20+ AI music tools · TypeScript · 6★</sub>
       </a>
     </td>
   </tr>
@@ -68,31 +68,87 @@
       </a>
     </td>
     <td align="center" width="170">
-      <a href="https://github.com/spupuz/CheckGitHubRepo">
-        <img src="https://raw.githubusercontent.com/spupuz/spupuz/main/assets/icon-checkgithub.svg" width="64" height="64" alt="CheckGitHubRepo"/>
-        <br/><b>CheckGitHubRepo</b>
-        <br/><sub>Open PR checker · HTML/JS · italiano</sub>
-      </a>
-    </td>
-    <td align="center" width="170">
       <a href="https://github.com/spupuz/duplicati-telegram-notifications">
         <img src="https://raw.githubusercontent.com/spupuz/spupuz/main/assets/icon-duplicati.svg" width="64" height="64" alt="Duplicati notifications"/>
         <br/><b>Duplicati → Telegram</b>
         <br/><sub>Backup notifications · Shell · 4★</sub>
       </a>
     </td>
+    <td align="center" width="170">
+      <a href="https://github.com/spupuz/vibenvr-telemetry-worker">
+        <img src="https://raw.githubusercontent.com/spupuz/spupuz/main/assets/icon-vibenvr.svg" width="64" height="64" alt="VibeNVR telemetry"/>
+        <br/><b>Telemetry worker</b>
+        <br/><sub>VibeNVR telemetry · JavaScript · 2★</sub>
+      </a>
+    </td>
   </tr>
 </table>
 
-Altri progetti: <b>fail2ban-scripts</b> · <b>debian-disk-cleanup</b> · <b>vibenvr-telemetry-worker</b> · <b>vibe-nvr-site</b> (vibenvr.org)
+More projects: <b>fail2ban-scripts</b> · <b>debian-disk-cleanup</b> · <b>vibe-nvr-site</b> (vibenvr.org)
 
 ---
 
-## 🧰 Tool che raggiungo
+## 📂 Projects
+
+<details>
+<summary><b>VibeNVR</b> — Local, open-source video surveillance</summary>
+<br>
+Modern NVR built for home and small-business self-hosting. Written in JavaScript/React with a Python video engine (PyAV + FFmpeg + OpenCV + YOLOv8). Features motion detection, AI object detection, event timeline, RTSP/ONVIF support, MQTT, Home Assistant Discovery, and multi-language UI (10+ languages).
+
+- **Stars:** 425 · **Forks:** 33 · **Open issues:** 3
+- **License:** MIT · **Website:** [vibenvr.org](https://www.vibenvr.org)
+- **Live telemetry:** [Public telemetry dashboard](https://vibenvr-telemetry.spupuz.workers.dev/)
+- **Repo:** [spupuz/VibeNVR](https://github.com/spupuz/VibeNVR)
+</details>
+
+<details>
+<summary><b>OmniState</b> — Multi-project persistent memory MCP server</summary>
+<br>
+Docker container acting as an MCP (Model Context Protocol) server that indexes project memories into a single SQLite database, enables cross-project search/shared memory, and monitors GitHub PR health.
+
+- **Stars:** 2 · **Language:** Python · **Repo:** [spupuz/OmniState](https://github.com/spupuz/OmniState)
+</details>
+
+<details>
+<summary><b>Music AI Multi-Tool Hub</b> — AI music creator suite</summary>
+<br>
+Static web app with 20+ specialized tools for AI music creators and producers, deployed on Cloudflare Pages.
+
+- **Stars:** 6 · **Language:** TypeScript · **Live:** [music-ai-multi-tool-hub.pages.dev](https://music-ai-multi-tool-hub.pages.dev)
+- **Repo:** [spupuz/music-ai-multi-tool-hub](https://github.com/spupuz/music-ai-multi-tool-hub)
+</details>
+
+<details>
+<summary><b>Proxmox scripts</b> — PVE automation & updates</summary>
+<br>
+Production-ready Bash scripts to monitor, notify, and automatically update Proxmox VE hosts and LXC containers, with Telegram reports.
+
+- **Stars:** 10 · **Language:** Shell · **Repo:** [spupuz/proxmox-scripts](https://github.com/spupuz/proxmox-scripts)
+</details>
+
+<details>
+<summary><b>Duplicati → Telegram</b> — Backup notifications</summary>
+<br>
+Shell script that sends rich Telegram notifications integrated into Duplicati backup pipelines.
+
+- **Stars:** 4 · **Language:** Shell · **Repo:** [spupuz/duplicati-telegram-notifications](https://github.com/spupuz/duplicati-telegram-notifications)
+</details>
+
+<details>
+<summary><b>VibeNVR Telemetry Worker</b> — Anonymous usage telemetry</summary>
+<br>
+Worker that collects and exposes anonymous VibeNVR usage stats for the public telemetry dashboard.
+
+- **Stars:** 2 · **Language:** JavaScript · **Repo:** [spupuz/vibenvr-telemetry-worker](https://github.com/spupuz/vibenvr-telemetry-worker)
+</details>
+
+---
+
+## 🧰 Tools I reach for
 
 <table>
   <tr>
-    <td><b>Linguaggi</b></td>
+    <td><b>Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
