@@ -50,7 +50,7 @@
         <img src="https://raw.githubusercontent.com/spupuz/spupuz/main/assets/icon-vibenvr.svg" width="64" height="64" alt="VibeNVR"/>
         <br/><b>VibeNVR</b>
         <br/><sub>Local NVR · JavaScript</sub>
-        <br/><img src="https://img.shields.io/github/stars/spupuz/VibeNVR?style=flat-square&label=stars&color=22d3ee" alt="VibeNVR stars"/>
+        <br/><br/><img src="https://img.shields.io/github/stars/spupuz/VibeNVR?style=flat-square&label=stars&color=22d3ee" alt="VibeNVR stars"/>
       </a>
     </td>
     <td align="center" width="170">
@@ -58,7 +58,7 @@
         <img src="https://raw.githubusercontent.com/spupuz/OmniState/main/server/favicon.svg" width="64" height="64" alt="OmniState"/>
         <br/><b>OmniState</b>
         <br/><sub>MCP memory server · Python</sub>
-        <br/><img src="https://img.shields.io/github/stars/spupuz/OmniState?style=flat-square&label=stars&color=22d3ee" alt="OmniState stars"/>
+        <br/><br/><img src="https://img.shields.io/github/stars/spupuz/OmniState?style=flat-square&label=stars&color=22d3ee" alt="OmniState stars"/>
       </a>
     </td>
     <td align="center" width="170">
@@ -66,7 +66,7 @@
         <img src="https://raw.githubusercontent.com/spupuz/spupuz/main/assets/icon-music-ai.svg" width="64" height="64" alt="Music AI Multi-Tool Hub"/>
         <br/><b>Music AI Hub</b>
         <br/><sub>20+ AI music tools · TypeScript</sub>
-        <br/><img src="https://img.shields.io/github/stars/spupuz/music-ai-multi-tool-hub?style=flat-square&label=stars&color=22d3ee" alt="Music AI Hub stars"/>
+        <br/><br/><img src="https://img.shields.io/github/stars/spupuz/music-ai-multi-tool-hub?style=flat-square&label=stars&color=22d3ee" alt="Music AI Hub stars"/>
       </a>
     </td>
   </tr>
@@ -76,7 +76,7 @@
         <img src="https://raw.githubusercontent.com/spupuz/spupuz/main/assets/icon-proxmox.svg" width="64" height="64" alt="Proxmox scripts"/>
         <br/><b>Proxmox scripts</b>
         <br/><sub>PVE automation · Shell</sub>
-        <br/><img src="https://img.shields.io/github/stars/spupuz/proxmox-scripts?style=flat-square&label=stars&color=22d3ee" alt="Proxmox scripts stars"/>
+        <br/><br/><img src="https://img.shields.io/github/stars/spupuz/proxmox-scripts?style=flat-square&label=stars&color=22d3ee" alt="Proxmox scripts stars"/>
       </a>
     </td>
     <td align="center" width="170">
@@ -84,7 +84,7 @@
         <img src="https://raw.githubusercontent.com/spupuz/spupuz/main/assets/icon-duplicati.svg" width="64" height="64" alt="Duplicati notifications"/>
         <br/><b>Duplicati → Telegram</b>
         <br/><sub>Backup notifications · Shell</sub>
-        <br/><img src="https://img.shields.io/github/stars/spupuz/duplicati-telegram-notifications?style=flat-square&label=stars&color=22d3ee" alt="Duplicati stars"/>
+        <br/><br/><img src="https://img.shields.io/github/stars/spupuz/duplicati-telegram-notifications?style=flat-square&label=stars&color=22d3ee" alt="Duplicati stars"/>
       </a>
     </td>
     <td align="center" width="170">
@@ -92,7 +92,7 @@
         <img src="https://raw.githubusercontent.com/spupuz/spupuz/main/assets/icon-vibenvr.svg" width="64" height="64" alt="VibeNVR telemetry"/>
         <br/><b>Telemetry worker</b>
         <br/><sub>VibeNVR telemetry · JavaScript</sub>
-        <br/><img src="https://img.shields.io/github/stars/spupuz/vibenvr-telemetry-worker?style=flat-square&label=stars&color=22d3ee" alt="Telemetry worker stars"/>
+        <br/><br/><img src="https://img.shields.io/github/stars/spupuz/vibenvr-telemetry-worker?style=flat-square&label=stars&color=22d3ee" alt="Telemetry worker stars"/>
       </a>
     </td>
   </tr>
