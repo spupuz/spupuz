@@ -5,7 +5,6 @@
 
 
 <p align="left">
-  <b>Vibe coder · self-hoster · father & husband · Italy</b><br>
   IT professional by day, 20+ years into enterprise infrastructure, storage and virtualization. After hours I turn the pain of manual setups into one-click solutions.
 </p>
 
