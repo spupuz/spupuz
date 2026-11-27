@@ -7,20 +7,20 @@
   Alessandro <b>·</b> <code>spupuz</code>
 </h1>
 
-<p align="center">
+<p align="right">
   <b>Vibe coder · self-hoster · father & husband · Italy</b><br>
   IT professional by day, 20+ years into enterprise infrastructure, storage and virtualization. After hours I turn the pain of manual setups into one-click solutions.
 </p>
 
-<p align="center">
+<p align="right">
   Every project here started the same way: I wasted a weekend on a tedious setup, then automated it so you never have to. If it still takes more than a command, it's not done yet.
 </p>
 
-<p align="center">
+<p align="right">
   That mindset now has 425+ stars and a growing self-hosting community behind it. Worth every late night.
 </p>
 
-<p align="center">
+<p align="right">
   The newest one is <a href="https://github.com/spupuz/VibeNVR"><b>VibeNVR</b></a>: a local, privacy-first NVR for your cameras, built for self-hosters who want full control. No cloud required.
 </p>
 
