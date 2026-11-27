@@ -9,15 +9,15 @@
 
 <p align="center">
   <b>Vibe coder · self-hoster · father & husband · Italy</b><br>
-  IT professional by day, 20+ years into enterprise infrastructure, storage and virtualization. At night I build the tools I wish already existed.
+  IT professional by day, 20+ years into enterprise infrastructure, storage and virtualization. After hours I turn the pain of manual setups into one-click solutions.
 </p>
 
 <p align="center">
-  Every project here started the same way. Something took me hours to set up, so I packaged it until it takes you one command.
+  Every project here started the same way: I wasted a weekend on a tedious setup, then automated it so you never have to. If it still takes more than a command, it's not done yet.
 </p>
 
 <p align="center">
-  That habit now has 425+ stars and a growing self-hosting community behind it. Not bad for a night shift.
+  That mindset now has 425+ stars and a growing self-hosting community behind it. Worth every late night.
 </p>
 
 <p align="center">
