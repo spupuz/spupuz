@@ -20,7 +20,6 @@
     <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
       <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
     </pattern>
-    <clipPath id="avatarClip"><circle cx="140" cy="140" r="78"/></clipPath>
   </defs>
 
   <rect width="1280" height="320" fill="url(#bg)"/>
@@ -34,21 +33,17 @@
     <circle cx="100" cy="96" r="14" fill="url(#accent)"/>
   </g>
 
-  <circle cx="140" cy="140" r="84" fill="none" stroke="url(#accent)" stroke-width="3"/>
-  <circle cx="140" cy="140" r="78" fill="#0B1220"/>
-  <image href="https://raw.githubusercontent.com/spupuz/spupuz/main/assets/avatar.png" x="62" y="62" width="156" height="156" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
-
-  <text x="290" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="800" fill="#F8FAFC" letter-spacing="-0.5">Alessandro</text>
-  <text x="292" y="166" font-family="Consolas, 'Courier New', monospace" font-size="24" fill="#22D3EE">spupuz · self-hoster &amp; vibe coder</text>
-  <text x="292" y="210" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#94A3B8">Turn weekend-long setups into one-command installs.</text>
+  <text x="90" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="800" fill="#F8FAFC" letter-spacing="-0.5">Alessandro</text>
+  <text x="92" y="166" font-family="Consolas, 'Courier New', monospace" font-size="24" fill="#22D3EE">spupuz · self-hoster &amp; vibe coder</text>
+  <text x="92" y="210" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#94A3B8">Turn weekend-long setups into one-command installs.</text>
 
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#CBD5E1">
-    <rect x="292" y="234" rx="13" width="160" height="28" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.1"/>
-    <text x="311" y="253">VibeNVR maintainer</text>
-    <rect x="464" y="234" rx="13" width="108" height="28" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.1"/>
-    <text x="483" y="253">Self-hosted</text>
-    <rect x="584" y="234" rx="13" width="70" height="28" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.1"/>
-    <text x="603" y="253">Italy</text>
+    <rect x="92" y="234" rx="13" width="160" height="28" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.1"/>
+    <text x="111" y="253">VibeNVR maintainer</text>
+    <rect x="264" y="234" rx="13" width="108" height="28" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.1"/>
+    <text x="283" y="253">Self-hosted</text>
+    <rect x="384" y="234" rx="13" width="70" height="28" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.1"/>
+    <text x="403" y="253">Italy</text>
   </g>
 
   <rect x="0" y="316" width="1280" height="4" fill="url(#accent)"/>
