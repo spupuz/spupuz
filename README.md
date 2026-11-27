@@ -9,8 +9,19 @@
 
 <p align="center">
   <b>Vibe coder · self-hoster · father & husband · Italy</b><br>
-  Turn weekend-long setups into <b>one-command installs</b>.<br>
-  Maintainer of <a href="https://github.com/spupuz/VibeNVR"><b>VibeNVR</b></a> — open source video surveillance.
+  IT professional by day, 20+ years into enterprise infrastructure, storage and virtualization. At night I build the tools I wish already existed.
+</p>
+
+<p align="center">
+  Every project here started the same way. Something took me hours to set up, so I packaged it until it takes you one command.
+</p>
+
+<p align="center">
+  That habit now has 425+ stars and a growing self-hosting community behind it. Not bad for a night shift.
+</p>
+
+<p align="center">
+  The newest one is <a href="https://github.com/spupuz/VibeNVR"><b>VibeNVR</b></a>: a local, privacy-first NVR for your cameras, built for self-hosters who want full control. No cloud required.
 </p>
 
 <p align="center">
@@ -21,7 +32,7 @@
     <img src="https://img.shields.io/badge/followers-23-6366f1?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://github.com/spupuz?tab=stars">
-    <img src="https://img.shields.io/badge/stars-~450-22d3ee?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/stars-425+-22d3ee?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://github.com/spupuz?tab=repositories&q=&type=source&language=javascript">
     <img src="https://img.shields.io/badge/language-JavaScript-22d3ee?style=for-the-badge&logo=javascript&logoColor=white"/>
