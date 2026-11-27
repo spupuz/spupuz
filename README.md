@@ -2,10 +2,7 @@
   <img src="https://raw.githubusercontent.com/spupuz/spupuz/main/assets/banner.svg" alt="spupuz profile banner" width="100%" />
 </p>
 
-<h1 align="center">
-  <br/>
-  Alessandro <b>·</b> <code>spupuz</code>
-</h1>
+
 
 <p align="left">
   <b>Vibe coder · self-hoster · father & husband · Italy</b><br>
