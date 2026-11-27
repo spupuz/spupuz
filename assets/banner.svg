@@ -36,7 +36,7 @@
 
   <circle cx="140" cy="140" r="84" fill="none" stroke="url(#accent)" stroke-width="3"/>
   <circle cx="140" cy="140" r="78" fill="#0B1220"/>
-  <image href="assets/avatar.png" x="62" y="62" width="156" height="156" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
+  <image href="https://raw.githubusercontent.com/spupuz/spupuz/main/assets/avatar.png" x="62" y="62" width="156" height="156" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
 
   <text x="290" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="800" fill="#F8FAFC" letter-spacing="-0.5">Alessandro</text>
   <text x="292" y="166" font-family="Consolas, 'Courier New', monospace" font-size="24" fill="#22D3EE">spupuz · self-hoster &amp; vibe coder</text>
